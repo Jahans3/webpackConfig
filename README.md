@@ -9,4 +9,4 @@ Webpack config boilerplate with:
 * Object spread and decorator function Babel plugins
 * Source Maps
 
-`npm i --save-dev webpack babel-core babel-loader babel-preset-es2015 babel-preset-react babel-plugin-transform-decorators-legacy babel-plugin-transform-object-rest-spread`
+`npm i --save-dev webpack babel-core babel-loader style-loader css-loader babel-preset-es2015 babel-preset-react babel-plugin-transform-decorators-legacy babel-plugin-transform-object-rest-spread`
