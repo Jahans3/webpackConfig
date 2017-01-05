@@ -10,3 +10,4 @@ Webpack config boilerplate with:
 * Source Maps
 
 `npm i --save-dev webpack babel-core babel-loader babel-preset-es2015 babel-preset-react babel-plugin-transform-decorators-legacy babel-plugin-transform-object-rest-spread style-loader css-loader sass-loader resolve-url-loader`
+
